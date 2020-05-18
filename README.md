@@ -1,3 +1,7 @@
+The project was created to complete the Markdown previewer project from freeCodeCamp. As per the task,
+1. An editor will be available for typing
+2. The markdown output will be displayed in the preview
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
